@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <item type="drawable" name="system_bar_background">#ff0000</item>
+    <item type="drawable" name="system_bar_background_opaque">#00ff00</item>
+</resources>

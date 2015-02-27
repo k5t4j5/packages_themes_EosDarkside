@@ -1,0 +1,3 @@
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+    android:src="@*common:drawable/ic_qs_usb_device"
+    android:tint="@*common:color/qs_toggles_color" />

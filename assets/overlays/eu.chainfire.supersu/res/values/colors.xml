@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="material_teal_500">@*common:color/accent</color>
+    <color name="material_teal_900">@*common:color/accent</color>
+    <color name="material_teal_950">@*common:color/accent</color>
+    <color name="primary_text">#ff000000</color>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <drawable name="btn_check_material_anim">@*common:drawable/btn_check_material_anim</drawable>
+   <drawable name="btn_radio_material_anim">@*common:drawable/btn_radio_material_anim</drawable>
+   <drawable name="edit_text_material">@*common:drawable/edit_text_material</drawable>
+   <drawable name="cab_background_top_material">@*common:color/accent_dark</drawable>
+   <drawable name="cab_background_bottom_material">@*common:color/accent_dark</drawable>
+   <drawable name="cab_background_top_mtrl_alpha">@*common:color/accent_dark</drawable>
+   <drawable name="cab_background_bottom_mtrl_alpha">@*common:color/accent_dark</drawable>
+   <item type="drawable" name="notification_template_icon_bg">@*common:color/notification_item_bg</item>
+   <item type="drawable" name="notification_template_icon_low_bg">@*common:color/notification_item_bg</item>
+</resources>
